@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hey, I'm Dixit 👋
 
-<!--
-**dixitjayswal/dixitjayswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer** building event-driven distributed systems at scale.
 
-Here are some ideas to get you started:
+Currently at **Thinkbiz Technology**, where I architect AWS pipelines processing **2.5M+ events/day** for enterprise clients including JERA (Japan).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+```
+Backend:     Node.js · TypeScript · Express · REST APIs · Microservices
+Streaming:   Apache Kafka · Apache Pinot · Debezium CDC · Azure Event Hub
+Cloud:       AWS (Lambda, SQS, DynamoDB, EKS, S3) · Docker · ArgoCD
+Databases:   PostgreSQL · MySQL · DynamoDB · Snowflake
+Frontend:    React.js · Vue.js · Next.js
+Auth:        OAuth2 · MSAL · RBAC
+```
+
+### Key outcomes shipped
+
+- **80%** reduction in ad-hoc reporting cycles (Kafka → Pinot pipeline)
+- **50%** MTTR reduction via automated incident management
+- **<2hr** critical production bug resolution under pressure
+- Enterprise anomaly detection platform for one of Japan's largest power companies
+
+### Currently exploring
+
+- Agentic AI workflows & LLM orchestration
+- Portfolio: [smartdixit.online](https://www.smartdixit.online)
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dixit-jayswal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.smartdixit.online)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:djayswal023@gmail.com)
